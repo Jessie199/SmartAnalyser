@@ -11,19 +11,19 @@ Original author: [Neo Xie](https://github.com/xneo123).
 
 Copy [All Files in ExecutionFile](https://github.com/xneo123/SmartAnalyser/tree/master/ExecutionFile) to the folder you want to store.
 
-![FilesInGit](https://github.com/xneo123/outlookOperation/raw/master/Image/FilesInGit.png)
+![FilesInGit](https://github.com/xneo123/outlookOperation/master/Image/FilesInGit.png)
 
 Copy your [Source.xlsx](https://github.com/xneo123/SmartAnalyser/blob/master/Sample/Source.xlsx) to this folder or change [config.xml](https://github.com/xneo123/SmartAnalyser/blob/master/ExecutionFile/config.xml) node "FilePath" 
 
 
 Execute [SmartAnalyser.exe](https://github.com/xneo123/SmartAnalyser/blob/master/ExecutionFile/SmartAnalysis.exe) wait a while the report with timestamp will be generated
 
-![SampleReport](https://github.com/xneo123/outlookOperation/raw/master/Image/SampleReport.png)
+![SampleReport](https://github.com/xneo123/outlookOperation/master/Image/SampleReport.png)
 
 
 Maybe you find it's not very accurate, you can try to change [ExceptionDict.xml](https://github.com/xneo123/SmartAnalyser/blob/master/ExecutionFile/ExceptionDict.xml)
 
-![ExceptionDict](https://github.com/xneo123/outlookOperation/raw/master/Image/ExceptionDict.png)
+![ExceptionDict](https://github.com/xneo123/outlookOperation/master/Image/ExceptionDict.png)
 
 ## Installation
 
