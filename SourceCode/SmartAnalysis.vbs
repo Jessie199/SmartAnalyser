@@ -112,7 +112,7 @@ Class ExcelOperationClass
 		Next		
 		Set oSheet=oExcelReport.Workbooks(1).Worksheets(1)
 		Set achart=oSheet.chartobjects.add(110,55,800,400)
-		achart.chart.charttype=5
+		achart.chart.charttype=5 'pie: 5; Line:4 ;Area: 1; 
 		set series=achart.chart.seriescollection		
 		range="Sheet1!$A$2:$B$"&intstep+2
 		series.add range,true 		
